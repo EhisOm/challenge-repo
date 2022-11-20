@@ -5,7 +5,7 @@
 - HTML Semantic correction
 - CSS DRY code
 - CSS comment
-- 
+- README img upload
 
 ## Installation
 

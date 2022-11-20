@@ -13,7 +13,7 @@
 ## Usage
 This is for search engine optimization and Online reputation management
 
-![alt "Screenshot of finsihed project"](assets/images/Screenshot.jpg)
+![alt "Screenshot of finsihed project"](assets/images/screenshot.jpg)
 
 
 ## License

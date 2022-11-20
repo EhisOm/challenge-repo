@@ -95,14 +95,14 @@ p {
 }
 
 
-/* made all the h3 one since they all contain same style */
+/* made all the h3 one since they all contain same styles for a DRY code */
 h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
 
-/* combined our img since they all have the same styles */
+/* combined our img since they all have the same styles for a DRY code */
 .benefit-lead img, .benefit-brand img, .benefit-cost img  {
     display: block;
     margin: 10px auto;

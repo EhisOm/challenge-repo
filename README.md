@@ -13,7 +13,7 @@
 ## Usage
 This is for search engine optimization and Online reputation management
 
-![alt Screenshot of finsihed project](assets/images/screenshot.jpg)
+![alt Screenshot of finsihed project](https://user-images.githubusercontent.com/116804382/202915875-600dd8d9-b9b8-49fb-84f6-5fd3de954a53.jpg)
 
 
 ## License
